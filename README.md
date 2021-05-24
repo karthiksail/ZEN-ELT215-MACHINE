@@ -1,7 +1,11 @@
-# PLC PROGRAMS  
+ELT 215 Machine
+================
+Run by an Omron CQM1 Programmable Logic Controller.  Written with the Omron CX-ONE IDE.
 
-A couple Programmable Logic Controller programs .
+---------------------------------------------------------------------------------------
 
+[![ELT 215 Machine](http://www.worldwidewebside.com/pics/tiny_playbutton_elt215.jpg)](https://www.youtube.com/watch?v=uiifXnxe3Q0)
 
+----------------------------------------------------------------------------------------
 
-The ladder logic and documentation for each of these devices can be found in their respective directories.  The ELT 215 Machine is a very large project, while the Zen Combination Lock is a very small (but complex) project.
+Above is a video showcasing the machine that I programmed.  This directory contains the requisite ladder logic and I/O files, a PDF of the ladder logic, and some of the documentation I created for the device.
